@@ -1,0 +1,10 @@
+2025-09-02 14:45:19,609 - ERROR - Error 401: API key inválida
+2025-09-02 14:47:34,079 - ERROR - Número incorrecto de argumentos. Se esperaba 1 (correo)
+2025-09-02 14:48:59,214 - INFO - Consulta exitosa para hadrian2507@gmail.com. No se encontraron brechas.
+2025-09-02 14:49:21,306 - INFO - Consulta exitosa para google@gmail.com. Brechas encontradas 322
+2025-09-02 14:49:21,308 - ERROR - Error al escribir reporte.csv: open() got an unexpected keyword argument 'econding'. Did you mean 'encoding'?
+2025-09-02 14:50:09,960 - ERROR - Error inesperado. Código de estado: 429
+2025-09-02 14:51:05,538 - INFO - Consulta exitosa para google@gmail.com. Brechas encontradas 322
+2025-09-02 14:51:06,383 - ERROR - Error al consultar detalles de la brecha Adobe: I/O operation on closed file.
+2025-09-02 14:51:17,040 - ERROR - Error al consultar detalles de la brecha Gawker: I/O operation on closed file.
+2025-09-02 14:51:27,686 - ERROR - Error al consultar detalles de la brecha Boxee: I/O operation on closed file.
